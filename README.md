@@ -1,7 +1,5 @@
 # CSJOBS-Spring-MVC
 
-##Working period: 06/2015 - 09/2015
-
 ###Overview: Created a CSJOBS a web application portal as a part of curriculum (ON JAVA SPRING HIBERNATE).
 •	Project is build using MAVEN build process.
 •	POM.xml( project object model)
